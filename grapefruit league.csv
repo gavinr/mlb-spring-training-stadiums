@@ -1,16 +1,16 @@
-Stadium Name,Lat,Lng,Teams,Test Column
-Florida Auto Exchange Stadium,28.003611,-82.786389,Toronto Blue Jays,Test1
-Bright House Networks Field ,27.971667,-82.731667,Philadelphia Phillies,Test2
-Steinbrenner Field ,27.980278,-82.506667,New York Yankees,Test3
-McKechnie Field ,27.485833,-82.570278,Pittsburgh Pirates,Test
-Ed Smith Stadium ,27.347778,-82.517222,Baltimore Orioles,Test4
-Charlotte Sports Park ,26.999167,-82.181667,Tampa Bay Rays,Test
-JetBlue Park ,26.548056,-81.763333,Boston Red Sox,Test
-Hammond Stadium ,26.538333,-81.841944,Minnesota Twins,Test
-Roger Dean Stadium ,26.891111,-80.116389,St. Louis Cardinals and Miami Marlins,Test
-Tradition Field,27.325281,-80.404494,New York Mets,Test
-Space Coast Stadium ,28.256944,-80.706111,Washington Nationals,Test
-Osceola Stadium ,28.298333,-81.363889,Houston Astros,Test
-ESPN Sports Complex ,28.337083,-81.556,Atlanta Braves,Test6
-Joker Marchant Stadium ,28.074722,-81.950833,Detroit Tigers,Test
-Test Stadium,38.582526,-90.285645,Gavin Test,Test
+Stadium Name,Lat,Lng,Teams
+Florida Auto Exchange Stadium,28.003611,-82.786389,Toronto Blue Jays
+Bright House Networks Field ,27.971667,-82.731667,Philadelphia Phillies
+Steinbrenner Field ,27.980278,-82.506667,New York Yankees
+McKechnie Field ,27.485833,-82.570278,Pittsburgh Pirates
+Ed Smith Stadium ,27.347778,-82.517222,Baltimore Orioles
+Charlotte Sports Park ,26.999167,-82.181667,Tampa Bay Rays
+JetBlue Park ,26.548056,-81.763333,Boston Red Sox
+Hammond Stadium ,26.538333,-81.841944,Minnesota Twins
+Roger Dean Stadium ,26.891111,-80.116389,St. Louis Cardinals and Miami Marlins
+Tradition Field,27.325281,-80.404494,New York Mets
+Space Coast Stadium ,28.256944,-80.706111,Washington Nationals
+Osceola Stadium ,28.298333,-81.363889,Houston Astros
+ESPN Sports Complex ,28.337083,-81.556,Atlanta Braves
+Joker Marchant Stadium ,28.074722,-81.950833,Detroit Tigers
+Test Stadium,38.582526,-90.285645,Gavin Test
