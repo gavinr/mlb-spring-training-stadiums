@@ -9,3 +9,4 @@ _Description: Data in CSV format of the MLB Spring Training Stadiums_
 ### Contributing and Usage
 
  * Everyone is welcome to contribute or use this data.
+ * Baseball icon by Ryan Choi from the Noun Project
