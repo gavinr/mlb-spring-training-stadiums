@@ -1,11 +1,11 @@
-Stadium Name,Lat,Lng,Teams
-Surprise Stadium,33.627778,-112.377778,Texas Rangers and Kansas City Royals
-Peoria Sports Complex,33.6319,-112.2332,San Diego Padres and Seattle Mariners
-Camelback Ranch,33.514167,-112.295833,Los Angeles Dodgers and Chicago White Sox
-Goodyear Ballpark,33.429167,-112.39,Cleveland Indians and Cincinnati Reds
-Maryvale Park,33.492222,-112.173056,Milwaukee Brewers
-Salt River Fields,33.546111,-111.885278,Arizona Diamondbacks and Colorado Rockies
-Scottsdale Stadium,33.488333,-111.921111,San Francisco Giants
-Sloan Park,33.4313,-111.8816,Chicago Cubs
-Tempe Diablo Stadium,33.400556,-111.969722,Los Angeles Angels
-Hohokam Stadium,33.438056,-111.83,Oakland Athletics
+Stadium Name,Lat,Lng,Teams,URL
+Surprise Stadium,33.627778,-112.377778,Texas Rangers and Kansas City Royals,https://en.wikipedia.org/wiki/Surprise_Stadium
+Peoria Sports Complex,33.6319,-112.2332,San Diego Padres and Seattle Mariners,https://en.wikipedia.org/wiki/Peoria_Sports_Complex
+Camelback Ranch,33.514167,-112.295833,Los Angeles Dodgers and Chicago White Sox,https://en.wikipedia.org/wiki/Camelback_Ranch
+Goodyear Ballpark,33.429167,-112.39,Cleveland Indians and Cincinnati Reds,https://en.wikipedia.org/wiki/Goodyear_Ballpark
+American Family Fields of Phoenix,33.492222,-112.173056,Milwaukee Brewers,https://en.wikipedia.org/wiki/American_Family_Fields_of_Phoenix
+Salt River Fields,33.546111,-111.885278,Arizona Diamondbacks and Colorado Rockies,https://en.wikipedia.org/wiki/Salt_River_Fields_at_Talking_Stick
+Scottsdale Stadium,33.488333,-111.921111,San Francisco Giants,https://en.wikipedia.org/wiki/Scottsdale_Stadium
+Sloan Park,33.4313,-111.8816,Chicago Cubs,https://en.wikipedia.org/wiki/Sloan_Park
+Tempe Diablo Stadium,33.400556,-111.969722,Los Angeles Angels,https://en.wikipedia.org/wiki/Tempe_Diablo_Stadium
+Hohokam Stadium,33.438056,-111.83,Oakland Athletics,https://en.wikipedia.org/wiki/Hohokam_Stadium
