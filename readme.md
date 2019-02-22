@@ -1,6 +1,8 @@
 # MLB Spring Training Stadiums
 
-_Description: Data in CSV format of the MLB Spring Training Stadiums_
+_Data in CSV format of the MLB Spring Training Stadiums_
+
+[![screenshot](https://raw.githubusercontent.com/gavinr/mlb-spring-training-stadiums/master/spring-training-stadiums.gif)](https://arcg.is/1OrvCC)
 
 ## Source
 
