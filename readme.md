@@ -2,7 +2,7 @@
 
 _Data in CSV format of the MLB Spring Training Stadiums_
 
-<p align="center"><a href="https://arcg.is/1OrvCC">Check out the map!</a></p>
+<p align="center"><a href="https://arcg.is/1OrvCC"><strong>Check out the map!</strong></a></p>
 <p align="center"><a href="https://arcg.is/1OrvCC"><img src="https://github.com/gavinr/mlb-spring-training-stadiums/blob/master/spring-training-stadiums.gif" /></a></p>
 
 
